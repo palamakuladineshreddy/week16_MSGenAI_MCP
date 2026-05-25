@@ -1,0 +1,6 @@
+mcp[sse]
+fastmcp>=2.2.0
+uvicorn
+uvicorn[standard]
+python-multipart
+starlette
